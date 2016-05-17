@@ -1,6 +1,6 @@
 # PadArq
 
-This is just a small app that calculates some mexican specific parameter for architectural projects design used to apply for construction permissions.
+This is just a small app that calculates some mexican specific parameters for architectural projects design used to apply for construction permissions.
 
 I started this project as an excersice while I'm learning Python 3.5 programming language and I was looking to apply some my recentrly aquired knowledge.
 
